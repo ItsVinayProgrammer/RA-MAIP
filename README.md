@@ -4,6 +4,9 @@
 
 RA-MAIP is a Streamlit-based wealth intelligence application designed to translate investor inputs into a disciplined, multi-asset portfolio recommendation. The system combines live mutual fund data, risk-suitability logic, and SEBI-aware allocation constraints to deliver a portfolio view that is analytical, current, and regulation-conscious.
 
+<img width="1919" height="1078" alt="Screenshot 2026-04-26 132350" src="https://github.com/user-attachments/assets/f70dfe7c-e173-4b85-916f-d95bca5f755a" />
+
+
 ## Institutional Overview
 
 RA-MAIP is built for investors and practitioners who want a structured decision layer rather than static asset suggestions. It evaluates personal profile inputs, computes a continuous risk score, applies regulatory allocation limits, and then maps the result into an actionable portfolio with instrument-level guidance.
